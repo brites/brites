@@ -1,7 +1,7 @@
 ## Henrique Brites
 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique_Brites-05727a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrbrites/)](https://www.linkedin.com/in/hrbrites/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato@brites.eti.br-05727a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@brites.eti.br)](mailto:contato@brites.eti.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrbrites/)](https://www.linkedin.com/in/hrbrites/) 
+[![Gmail Badge](https://img.shields.io/badge/-Contato-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@brites.eti.br)](mailto:contato@brites.eti.br)
 
 
 
